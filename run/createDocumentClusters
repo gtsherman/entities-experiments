@@ -2,4 +2,4 @@
 # $1 = config file
 
 _JAVA_OPTIONS=-Xmx1g
-java -Djava.library.path=/home/mefron/local_indri/lib -cp /home/gsherma2/entities/lib/*:/home/gsherma2/entities/config/logging/* edu.gslis.main.CreateDocumentClusters $@
+java -Djava.library.path=/home/mefron/local_indri/lib -cp /home/gsherma2/entities/lib/*:/home/gsherma2/entities/config/logging/ edu.gslis.main.CreateDocumentClusters $@

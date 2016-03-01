@@ -1,5 +1,5 @@
 index: /hdfsd02/tmpspace/mefron/indexes/robust
 wiki-index: /data0/wikipedia/20150901/index
-stoplist: /home/gsherma2/entities/res/stoplist.indri
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
 document-entities-file: /home/gsherma2/entities/res/clusters/robust/wiki/clusters.tsv
 queries: /home/gsherma2/entities/res/topics/topics.robust.json
