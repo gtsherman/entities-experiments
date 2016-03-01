@@ -1,0 +1,4 @@
+#!/bin/bash
+# Run from config directory (e.g. ~/entities/config/robust/documentToEntity/)
+
+ls | parallel --eta --results $1 ~/entities/run/createDocumentClusters {}

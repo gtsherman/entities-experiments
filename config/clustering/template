@@ -1,0 +1,6 @@
+index: /hdfsd02/tmpspace/mefron/indexes/robust
+stoplist: /home/gsherma2/entities/res/stoplist.indri
+wiki-index: /hdfsd02/tmpspace/mefron/indexes/robust
+queries: /home/gsherma2/entities/res/topics/topics.robust.json
+document-terms: 20
+documents-file: /home/gsherma2/entities/res/clusters/needed/robust/robust.1000/1

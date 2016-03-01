@@ -1,0 +1,2933 @@
+{
+  "metadata": {},
+  "queries": [
+    {
+      "title": "1",
+      "text": "obama family tree",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tree"
+        },
+        {
+          "weight": "1",
+          "feature": "family"
+        },
+        {
+          "weight": "1",
+          "feature": "obama"
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "text": "french lick resort and casino",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "casino"
+        },
+        {
+          "weight": "1",
+          "feature": "resort"
+        },
+        {
+          "weight": "1",
+          "feature": "french"
+        },
+        {
+          "weight": "1",
+          "feature": "lick"
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "text": "getting organized",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "getting"
+        },
+        {
+          "weight": "1",
+          "feature": "organized"
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "text": "toilet",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "toilet"
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "text": "mitchell college",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mitchell"
+        },
+        {
+          "weight": "1",
+          "feature": "college"
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "text": "kcs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "kcs"
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "text": "air travel information",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "information"
+        },
+        {
+          "weight": "1",
+          "feature": "air"
+        },
+        {
+          "weight": "1",
+          "feature": "travel"
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "text": "appraisals",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "appraisals"
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "text": "used car parts",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "car"
+        },
+        {
+          "weight": "1",
+          "feature": "parts"
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "text": "cheap internet",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cheap"
+        },
+        {
+          "weight": "1",
+          "feature": "internet"
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "text": "gmat prep classes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "classes"
+        },
+        {
+          "weight": "1",
+          "feature": "prep"
+        },
+        {
+          "weight": "1",
+          "feature": "gmat"
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "text": "djs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "djs"
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "text": "map",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "map"
+        }
+      ]
+    },
+    {
+      "title": "14",
+      "text": "dinosaurs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dinosaurs"
+        }
+      ]
+    },
+    {
+      "title": "15",
+      "text": "espn sports",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "espn"
+        },
+        {
+          "weight": "1",
+          "feature": "sports"
+        }
+      ]
+    },
+    {
+      "title": "16",
+      "text": "arizona game and fish",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fish"
+        },
+        {
+          "weight": "1",
+          "feature": "arizona"
+        },
+        {
+          "weight": "1",
+          "feature": "game"
+        }
+      ]
+    },
+    {
+      "title": "17",
+      "text": "poker tournaments",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "poker"
+        },
+        {
+          "weight": "1",
+          "feature": "tournaments"
+        }
+      ]
+    },
+    {
+      "title": "18",
+      "text": "wedding budget calculator",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "budget"
+        },
+        {
+          "weight": "1",
+          "feature": "wedding"
+        },
+        {
+          "weight": "1",
+          "feature": "calculator"
+        }
+      ]
+    },
+    {
+      "title": "19",
+      "text": "the current",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "current"
+        }
+      ]
+    },
+    {
+      "title": "20",
+      "text": "defender",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "defender"
+        }
+      ]
+    },
+    {
+      "title": "21",
+      "text": "volvo",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "volvo"
+        }
+      ]
+    },
+    {
+      "title": "22",
+      "text": "rick warren",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rick"
+        },
+        {
+          "weight": "1",
+          "feature": "warren"
+        }
+      ]
+    },
+    {
+      "title": "23",
+      "text": "yahoo",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "yahoo"
+        }
+      ]
+    },
+    {
+      "title": "24",
+      "text": "diversity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "diversity"
+        }
+      ]
+    },
+    {
+      "title": "25",
+      "text": "euclid",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "euclid"
+        }
+      ]
+    },
+    {
+      "title": "26",
+      "text": "lower heart rate",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rate"
+        },
+        {
+          "weight": "1",
+          "feature": "heart"
+        },
+        {
+          "weight": "1",
+          "feature": "lower"
+        }
+      ]
+    },
+    {
+      "title": "27",
+      "text": "starbucks",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "starbucks"
+        }
+      ]
+    },
+    {
+      "title": "28",
+      "text": "inuyasha",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "inuyasha"
+        }
+      ]
+    },
+    {
+      "title": "29",
+      "text": "ps 2 games",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "games"
+        },
+        {
+          "weight": "1",
+          "feature": "ps"
+        }
+      ]
+    },
+    {
+      "title": "30",
+      "text": "diabetes education",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "diabetes"
+        },
+        {
+          "weight": "1",
+          "feature": "education"
+        }
+      ]
+    },
+    {
+      "title": "31",
+      "text": "atari",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "atari"
+        }
+      ]
+    },
+    {
+      "title": "32",
+      "text": "website design hosting",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "website"
+        },
+        {
+          "weight": "1",
+          "feature": "hosting"
+        },
+        {
+          "weight": "1",
+          "feature": "design"
+        }
+      ]
+    },
+    {
+      "title": "33",
+      "text": "elliptical trainer",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "elliptical"
+        },
+        {
+          "weight": "1",
+          "feature": "trainer"
+        }
+      ]
+    },
+    {
+      "title": "34",
+      "text": "cell phones",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cell"
+        },
+        {
+          "weight": "1",
+          "feature": "phones"
+        }
+      ]
+    },
+    {
+      "title": "35",
+      "text": "hoboken",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hoboken"
+        }
+      ]
+    },
+    {
+      "title": "36",
+      "text": "gps",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "gps"
+        }
+      ]
+    },
+    {
+      "title": "37",
+      "text": "pampered chef",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pampered"
+        },
+        {
+          "weight": "1",
+          "feature": "chef"
+        }
+      ]
+    },
+    {
+      "title": "38",
+      "text": "dogs for adoption",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "adoption"
+        },
+        {
+          "weight": "1",
+          "feature": "dogs"
+        }
+      ]
+    },
+    {
+      "title": "39",
+      "text": "disneyland hotel",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "disneyland"
+        },
+        {
+          "weight": "1",
+          "feature": "hotel"
+        }
+      ]
+    },
+    {
+      "title": "40",
+      "text": "michworks",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "michworks"
+        }
+      ]
+    },
+    {
+      "title": "41",
+      "text": "orange county convention center",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "center"
+        },
+        {
+          "weight": "1",
+          "feature": "orange"
+        },
+        {
+          "weight": "1",
+          "feature": "county"
+        },
+        {
+          "weight": "1",
+          "feature": "convention"
+        }
+      ]
+    },
+    {
+      "title": "42",
+      "text": "the music man",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "music"
+        },
+        {
+          "weight": "1",
+          "feature": "man"
+        }
+      ]
+    },
+    {
+      "title": "43",
+      "text": "the secret garden",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "secret"
+        },
+        {
+          "weight": "1",
+          "feature": "garden"
+        }
+      ]
+    },
+    {
+      "title": "44",
+      "text": "map of the united states",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "united"
+        },
+        {
+          "weight": "1",
+          "feature": "map"
+        },
+        {
+          "weight": "1",
+          "feature": "states"
+        }
+      ]
+    },
+    {
+      "title": "45",
+      "text": "solar panels",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "panels"
+        },
+        {
+          "weight": "1",
+          "feature": "solar"
+        }
+      ]
+    },
+    {
+      "title": "46",
+      "text": "alexian brothers hospital",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "alexian"
+        },
+        {
+          "weight": "1",
+          "feature": "hospital"
+        },
+        {
+          "weight": "1",
+          "feature": "brothers"
+        }
+      ]
+    },
+    {
+      "title": "47",
+      "text": "indexed annuity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "indexed"
+        },
+        {
+          "weight": "1",
+          "feature": "annuity"
+        }
+      ]
+    },
+    {
+      "title": "48",
+      "text": "wilson antenna",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "wilson"
+        },
+        {
+          "weight": "1",
+          "feature": "antenna"
+        }
+      ]
+    },
+    {
+      "title": "49",
+      "text": "flame designs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "designs"
+        },
+        {
+          "weight": "1",
+          "feature": "flame"
+        }
+      ]
+    },
+    {
+      "title": "50",
+      "text": "dog heat",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dog"
+        },
+        {
+          "weight": "1",
+          "feature": "heat"
+        }
+      ]
+    },
+    {
+      "title": "51",
+      "text": "horse hooves",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "horse"
+        },
+        {
+          "weight": "1",
+          "feature": "hooves"
+        }
+      ]
+    },
+    {
+      "title": "52",
+      "text": "avp",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "avp"
+        }
+      ]
+    },
+    {
+      "title": "53",
+      "text": "discovery channel store",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "store"
+        },
+        {
+          "weight": "1",
+          "feature": "channel"
+        },
+        {
+          "weight": "1",
+          "feature": "discovery"
+        }
+      ]
+    },
+    {
+      "title": "54",
+      "text": "president of the united states",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "president"
+        },
+        {
+          "weight": "1",
+          "feature": "united"
+        },
+        {
+          "weight": "1",
+          "feature": "states"
+        }
+      ]
+    },
+    {
+      "title": "55",
+      "text": "iron",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "iron"
+        }
+      ]
+    },
+    {
+      "title": "56",
+      "text": "uss yorktown charleston sc",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "charleston"
+        },
+        {
+          "weight": "1",
+          "feature": "sc"
+        },
+        {
+          "weight": "1",
+          "feature": "uss"
+        },
+        {
+          "weight": "1",
+          "feature": "yorktown"
+        }
+      ]
+    },
+    {
+      "title": "57",
+      "text": "ct jobs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "jobs"
+        },
+        {
+          "weight": "1",
+          "feature": "ct"
+        }
+      ]
+    },
+    {
+      "title": "58",
+      "text": "penguins",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "penguins"
+        }
+      ]
+    },
+    {
+      "title": "59",
+      "text": "how to build a fence",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fence"
+        },
+        {
+          "weight": "1",
+          "feature": "build"
+        }
+      ]
+    },
+    {
+      "title": "60",
+      "text": "bellevue",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bellevue"
+        }
+      ]
+    },
+    {
+      "title": "61",
+      "text": "worm",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "worm"
+        }
+      ]
+    },
+    {
+      "title": "62",
+      "text": "texas border patrol",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "patrol"
+        },
+        {
+          "weight": "1",
+          "feature": "texas"
+        },
+        {
+          "weight": "1",
+          "feature": "border"
+        }
+      ]
+    },
+    {
+      "title": "63",
+      "text": "flushing",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "flushing"
+        }
+      ]
+    },
+    {
+      "title": "64",
+      "text": "moths",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "moths"
+        }
+      ]
+    },
+    {
+      "title": "65",
+      "text": "korean language",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "language"
+        },
+        {
+          "weight": "1",
+          "feature": "korean"
+        }
+      ]
+    },
+    {
+      "title": "66",
+      "text": "income tax return online",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tax"
+        },
+        {
+          "weight": "1",
+          "feature": "income"
+        },
+        {
+          "weight": "1",
+          "feature": "return"
+        },
+        {
+          "weight": "1",
+          "feature": "online"
+        }
+      ]
+    },
+    {
+      "title": "67",
+      "text": "vldl levels",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "levels"
+        },
+        {
+          "weight": "1",
+          "feature": "vldl"
+        }
+      ]
+    },
+    {
+      "title": "68",
+      "text": "pvc",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pvc"
+        }
+      ]
+    },
+    {
+      "title": "69",
+      "text": "sewing instructions",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sewing"
+        },
+        {
+          "weight": "1",
+          "feature": "instructions"
+        }
+      ]
+    },
+    {
+      "title": "70",
+      "text": "to be or not to be that is the question",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "question"
+        }
+      ]
+    },
+    {
+      "title": "71",
+      "text": "living in india",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "india"
+        },
+        {
+          "weight": "1",
+          "feature": "living"
+        }
+      ]
+    },
+    {
+      "title": "72",
+      "text": "the sun",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sun"
+        }
+      ]
+    },
+    {
+      "title": "73",
+      "text": "neil young",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "neil"
+        },
+        {
+          "weight": "1",
+          "feature": "young"
+        }
+      ]
+    },
+    {
+      "title": "74",
+      "text": "kiwi",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "kiwi"
+        }
+      ]
+    },
+    {
+      "title": "75",
+      "text": "tornadoes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tornadoes"
+        }
+      ]
+    },
+    {
+      "title": "76",
+      "text": "raised gardens",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "raised"
+        },
+        {
+          "weight": "1",
+          "feature": "gardens"
+        }
+      ]
+    },
+    {
+      "title": "77",
+      "text": "bobcat",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bobcat"
+        }
+      ]
+    },
+    {
+      "title": "78",
+      "text": "dieting",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dieting"
+        }
+      ]
+    },
+    {
+      "title": "79",
+      "text": "voyager",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "voyager"
+        }
+      ]
+    },
+    {
+      "title": "80",
+      "text": "keyboard reviews",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reviews"
+        },
+        {
+          "weight": "1",
+          "feature": "keyboard"
+        }
+      ]
+    },
+    {
+      "title": "81",
+      "text": "afghanistan",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "afghanistan"
+        }
+      ]
+    },
+    {
+      "title": "82",
+      "text": "joints",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "joints"
+        }
+      ]
+    },
+    {
+      "title": "83",
+      "text": "memory",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "memory"
+        }
+      ]
+    },
+    {
+      "title": "84",
+      "text": "continental plates",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "plates"
+        },
+        {
+          "weight": "1",
+          "feature": "continental"
+        }
+      ]
+    },
+    {
+      "title": "85",
+      "text": "milwaukee journal sentinel",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "journal"
+        },
+        {
+          "weight": "1",
+          "feature": "milwaukee"
+        },
+        {
+          "weight": "1",
+          "feature": "sentinel"
+        }
+      ]
+    },
+    {
+      "title": "86",
+      "text": "bart sf",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bart"
+        },
+        {
+          "weight": "1",
+          "feature": "sf"
+        }
+      ]
+    },
+    {
+      "title": "87",
+      "text": "who invented music",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "music"
+        },
+        {
+          "weight": "1",
+          "feature": "invented"
+        }
+      ]
+    },
+    {
+      "title": "88",
+      "text": "forearm pain",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "forearm"
+        },
+        {
+          "weight": "1",
+          "feature": "pain"
+        }
+      ]
+    },
+    {
+      "title": "89",
+      "text": "ocd",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ocd"
+        }
+      ]
+    },
+    {
+      "title": "90",
+      "text": "mgb",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mgb"
+        }
+      ]
+    },
+    {
+      "title": "91",
+      "text": "er tv show",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tv"
+        },
+        {
+          "weight": "1",
+          "feature": "show"
+        },
+        {
+          "weight": "1",
+          "feature": "er"
+        }
+      ]
+    },
+    {
+      "title": "92",
+      "text": "the wall",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "wall"
+        }
+      ]
+    },
+    {
+      "title": "93",
+      "text": "raffles",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "raffles"
+        }
+      ]
+    },
+    {
+      "title": "94",
+      "text": "titan",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "titan"
+        }
+      ]
+    },
+    {
+      "title": "95",
+      "text": "earn money at home",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "home"
+        },
+        {
+          "weight": "1",
+          "feature": "money"
+        },
+        {
+          "weight": "1",
+          "feature": "earn"
+        }
+      ]
+    },
+    {
+      "title": "96",
+      "text": "rice",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rice"
+        }
+      ]
+    },
+    {
+      "title": "97",
+      "text": "south africa",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "south"
+        },
+        {
+          "weight": "1",
+          "feature": "africa"
+        }
+      ]
+    },
+    {
+      "title": "98",
+      "text": "sat",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sat"
+        }
+      ]
+    },
+    {
+      "title": "99",
+      "text": "satellite",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "satellite"
+        }
+      ]
+    },
+    {
+      "title": "100",
+      "text": "rincon puerto rico",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rincon"
+        },
+        {
+          "weight": "1",
+          "feature": "puerto"
+        },
+        {
+          "weight": "1",
+          "feature": "rico"
+        }
+      ]
+    },
+    {
+      "title": "101",
+      "text": "ritz carlton lake las vegas",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ritz"
+        },
+        {
+          "weight": "1",
+          "feature": "lake"
+        },
+        {
+          "weight": "1",
+          "feature": "vegas"
+        },
+        {
+          "weight": "1",
+          "feature": "carlton"
+        },
+        {
+          "weight": "1",
+          "feature": "las"
+        }
+      ]
+    },
+    {
+      "title": "102",
+      "text": "fickle creek farm",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "farm"
+        },
+        {
+          "weight": "1",
+          "feature": "creek"
+        },
+        {
+          "weight": "1",
+          "feature": "fickle"
+        }
+      ]
+    },
+    {
+      "title": "103",
+      "text": "madam cj walker",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "madam"
+        },
+        {
+          "weight": "1",
+          "feature": "cj"
+        },
+        {
+          "weight": "1",
+          "feature": "walker"
+        }
+      ]
+    },
+    {
+      "title": "104",
+      "text": "indiana child support",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "child"
+        },
+        {
+          "weight": "1",
+          "feature": "indiana"
+        },
+        {
+          "weight": "1",
+          "feature": "support"
+        }
+      ]
+    },
+    {
+      "title": "105",
+      "text": "sonoma county medical services",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "services"
+        },
+        {
+          "weight": "1",
+          "feature": "medical"
+        },
+        {
+          "weight": "1",
+          "feature": "county"
+        },
+        {
+          "weight": "1",
+          "feature": "sonoma"
+        }
+      ]
+    },
+    {
+      "title": "106",
+      "text": "universal animal cuts reviews",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reviews"
+        },
+        {
+          "weight": "1",
+          "feature": "universal"
+        },
+        {
+          "weight": "1",
+          "feature": "cuts"
+        },
+        {
+          "weight": "1",
+          "feature": "animal"
+        }
+      ]
+    },
+    {
+      "title": "107",
+      "text": "cass county missouri",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "missouri"
+        },
+        {
+          "weight": "1",
+          "feature": "county"
+        },
+        {
+          "weight": "1",
+          "feature": "cass"
+        }
+      ]
+    },
+    {
+      "title": "108",
+      "text": "ralph owen brewster",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "brewster"
+        },
+        {
+          "weight": "1",
+          "feature": "ralph"
+        },
+        {
+          "weight": "1",
+          "feature": "owen"
+        }
+      ]
+    },
+    {
+      "title": "109",
+      "text": "mayo clinic jacksonville fl",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "jacksonville"
+        },
+        {
+          "weight": "1",
+          "feature": "fl"
+        },
+        {
+          "weight": "1",
+          "feature": "clinic"
+        },
+        {
+          "weight": "1",
+          "feature": "mayo"
+        }
+      ]
+    },
+    {
+      "title": "110",
+      "text": "map of brazil",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "brazil"
+        },
+        {
+          "weight": "1",
+          "feature": "map"
+        }
+      ]
+    },
+    {
+      "title": "111",
+      "text": "lymphoma in dogs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dogs"
+        },
+        {
+          "weight": "1",
+          "feature": "lymphoma"
+        }
+      ]
+    },
+    {
+      "title": "112",
+      "text": "kenmore gas water heater",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "water"
+        },
+        {
+          "weight": "1",
+          "feature": "gas"
+        },
+        {
+          "weight": "1",
+          "feature": "kenmore"
+        },
+        {
+          "weight": "1",
+          "feature": "heater"
+        }
+      ]
+    },
+    {
+      "title": "113",
+      "text": "hp mini 2140",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hp"
+        },
+        {
+          "weight": "1",
+          "feature": "2140"
+        },
+        {
+          "weight": "1",
+          "feature": "mini"
+        }
+      ]
+    },
+    {
+      "title": "114",
+      "text": "adobe indian houses",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "houses"
+        },
+        {
+          "weight": "1",
+          "feature": "indian"
+        },
+        {
+          "weight": "1",
+          "feature": "adobe"
+        }
+      ]
+    },
+    {
+      "title": "115",
+      "text": "pacific northwest laboratory",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "laboratory"
+        },
+        {
+          "weight": "1",
+          "feature": "pacific"
+        },
+        {
+          "weight": "1",
+          "feature": "northwest"
+        }
+      ]
+    },
+    {
+      "title": "116",
+      "text": "california franchise tax board",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "franchise"
+        },
+        {
+          "weight": "1",
+          "feature": "tax"
+        },
+        {
+          "weight": "1",
+          "feature": "california"
+        },
+        {
+          "weight": "1",
+          "feature": "board"
+        }
+      ]
+    },
+    {
+      "title": "117",
+      "text": "dangers of asbestos",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "asbestos"
+        },
+        {
+          "weight": "1",
+          "feature": "dangers"
+        }
+      ]
+    },
+    {
+      "title": "118",
+      "text": "poem in your pocket day",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pocket"
+        },
+        {
+          "weight": "1",
+          "feature": "poem"
+        }
+      ]
+    },
+    {
+      "title": "119",
+      "text": "interview thank you",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "thank"
+        },
+        {
+          "weight": "1",
+          "feature": "interview"
+        }
+      ]
+    },
+    {
+      "title": "120",
+      "text": "tv on computer",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "computer"
+        },
+        {
+          "weight": "1",
+          "feature": "tv"
+        }
+      ]
+    },
+    {
+      "title": "121",
+      "text": "sit and reach test",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sit"
+        },
+        {
+          "weight": "1",
+          "feature": "reach"
+        },
+        {
+          "weight": "1",
+          "feature": "test"
+        }
+      ]
+    },
+    {
+      "title": "122",
+      "text": "culpeper national cemetery",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "national"
+        },
+        {
+          "weight": "1",
+          "feature": "cemetery"
+        },
+        {
+          "weight": "1",
+          "feature": "culpeper"
+        }
+      ]
+    },
+    {
+      "title": "123",
+      "text": "von willebrand disease",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "von"
+        },
+        {
+          "weight": "1",
+          "feature": "disease"
+        },
+        {
+          "weight": "1",
+          "feature": "willebrand"
+        }
+      ]
+    },
+    {
+      "title": "124",
+      "text": "bowflex power pro",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bowflex"
+        },
+        {
+          "weight": "1",
+          "feature": "pro"
+        },
+        {
+          "weight": "1",
+          "feature": "power"
+        }
+      ]
+    },
+    {
+      "title": "125",
+      "text": "butter and margarine",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "margarine"
+        },
+        {
+          "weight": "1",
+          "feature": "butter"
+        }
+      ]
+    },
+    {
+      "title": "126",
+      "text": "us capitol map",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "map"
+        },
+        {
+          "weight": "1",
+          "feature": "capitol"
+        }
+      ]
+    },
+    {
+      "title": "127",
+      "text": "dutchess county tourism",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dutchess"
+        },
+        {
+          "weight": "1",
+          "feature": "county"
+        },
+        {
+          "weight": "1",
+          "feature": "tourism"
+        }
+      ]
+    },
+    {
+      "title": "128",
+      "text": "atypical squamous cells",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cells"
+        },
+        {
+          "weight": "1",
+          "feature": "squamous"
+        },
+        {
+          "weight": "1",
+          "feature": "atypical"
+        }
+      ]
+    },
+    {
+      "title": "129",
+      "text": "iowa food stamp program",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "stamp"
+        },
+        {
+          "weight": "1",
+          "feature": "iowa"
+        },
+        {
+          "weight": "1",
+          "feature": "program"
+        },
+        {
+          "weight": "1",
+          "feature": "food"
+        }
+      ]
+    },
+    {
+      "title": "130",
+      "text": "fact on uranus",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fact"
+        },
+        {
+          "weight": "1",
+          "feature": "uranus"
+        }
+      ]
+    },
+    {
+      "title": "131",
+      "text": "equal opportunity employer",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "opportunity"
+        },
+        {
+          "weight": "1",
+          "feature": "employer"
+        },
+        {
+          "weight": "1",
+          "feature": "equal"
+        }
+      ]
+    },
+    {
+      "title": "132",
+      "text": "mothers day songs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mothers"
+        },
+        {
+          "weight": "1",
+          "feature": "songs"
+        }
+      ]
+    },
+    {
+      "title": "133",
+      "text": "all men are created equal",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "created"
+        },
+        {
+          "weight": "1",
+          "feature": "equal"
+        },
+        {
+          "weight": "1",
+          "feature": "men"
+        }
+      ]
+    },
+    {
+      "title": "134",
+      "text": "electronic skeet shoot",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "shoot"
+        },
+        {
+          "weight": "1",
+          "feature": "skeet"
+        },
+        {
+          "weight": "1",
+          "feature": "electronic"
+        }
+      ]
+    },
+    {
+      "title": "135",
+      "text": "source of the nile",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "source"
+        },
+        {
+          "weight": "1",
+          "feature": "nile"
+        }
+      ]
+    },
+    {
+      "title": "136",
+      "text": "american military university",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "university"
+        },
+        {
+          "weight": "1",
+          "feature": "american"
+        },
+        {
+          "weight": "1",
+          "feature": "military"
+        }
+      ]
+    },
+    {
+      "title": "137",
+      "text": "rock and gem shows",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rock"
+        },
+        {
+          "weight": "1",
+          "feature": "gem"
+        },
+        {
+          "weight": "1",
+          "feature": "shows"
+        }
+      ]
+    },
+    {
+      "title": "138",
+      "text": "jax chemical company",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "company"
+        },
+        {
+          "weight": "1",
+          "feature": "chemical"
+        },
+        {
+          "weight": "1",
+          "feature": "jax"
+        }
+      ]
+    },
+    {
+      "title": "139",
+      "text": "rocky mountain news",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mountain"
+        },
+        {
+          "weight": "1",
+          "feature": "news"
+        },
+        {
+          "weight": "1",
+          "feature": "rocky"
+        }
+      ]
+    },
+    {
+      "title": "140",
+      "text": "east ridge high school",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "high"
+        },
+        {
+          "weight": "1",
+          "feature": "east"
+        },
+        {
+          "weight": "1",
+          "feature": "ridge"
+        }
+      ]
+    },
+    {
+      "title": "141",
+      "text": "va dmv registration",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "registration"
+        },
+        {
+          "weight": "1",
+          "feature": "va"
+        },
+        {
+          "weight": "1",
+          "feature": "dmv"
+        }
+      ]
+    },
+    {
+      "title": "142",
+      "text": "illinois state tax",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "illinois"
+        },
+        {
+          "weight": "1",
+          "feature": "tax"
+        },
+        {
+          "weight": "1",
+          "feature": "state"
+        }
+      ]
+    },
+    {
+      "title": "143",
+      "text": "arkadelphia health club",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "arkadelphia"
+        },
+        {
+          "weight": "1",
+          "feature": "club"
+        },
+        {
+          "weight": "1",
+          "feature": "health"
+        }
+      ]
+    },
+    {
+      "title": "144",
+      "text": "trombone for sale",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sale"
+        },
+        {
+          "weight": "1",
+          "feature": "trombone"
+        }
+      ]
+    },
+    {
+      "title": "145",
+      "text": "vines for shade",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "vines"
+        },
+        {
+          "weight": "1",
+          "feature": "shade"
+        }
+      ]
+    },
+    {
+      "title": "146",
+      "text": "sherwood regional library",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "regional"
+        },
+        {
+          "weight": "1",
+          "feature": "sherwood"
+        },
+        {
+          "weight": "1",
+          "feature": "library"
+        }
+      ]
+    },
+    {
+      "title": "147",
+      "text": "tangible personal property tax",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "personal"
+        },
+        {
+          "weight": "1",
+          "feature": "tangible"
+        },
+        {
+          "weight": "1",
+          "feature": "tax"
+        },
+        {
+          "weight": "1",
+          "feature": "property"
+        }
+      ]
+    },
+    {
+      "title": "148",
+      "text": "martha stewart and imclone",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "martha"
+        },
+        {
+          "weight": "1",
+          "feature": "imclone"
+        },
+        {
+          "weight": "1",
+          "feature": "stewart"
+        }
+      ]
+    },
+    {
+      "title": "149",
+      "text": "uplift at yellowstone national park",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "yellowstone"
+        },
+        {
+          "weight": "1",
+          "feature": "park"
+        },
+        {
+          "weight": "1",
+          "feature": "national"
+        },
+        {
+          "weight": "1",
+          "feature": "uplift"
+        }
+      ]
+    },
+    {
+      "title": "150",
+      "text": "tn highway patrol",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "patrol"
+        },
+        {
+          "weight": "1",
+          "feature": "tn"
+        },
+        {
+          "weight": "1",
+          "feature": "highway"
+        }
+      ]
+    },
+    {
+      "title": "151",
+      "text": "403b",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "403b"
+        }
+      ]
+    },
+    {
+      "title": "152",
+      "text": "angular cheilitis",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cheilitis"
+        },
+        {
+          "weight": "1",
+          "feature": "angular"
+        }
+      ]
+    },
+    {
+      "title": "153",
+      "text": "pocono",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pocono"
+        }
+      ]
+    },
+    {
+      "title": "154",
+      "text": "figs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "figs"
+        }
+      ]
+    },
+    {
+      "title": "155",
+      "text": "last supper painting",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "supper"
+        },
+        {
+          "weight": "1",
+          "feature": "painting"
+        }
+      ]
+    },
+    {
+      "title": "156",
+      "text": "university of phoenix",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "university"
+        },
+        {
+          "weight": "1",
+          "feature": "phoenix"
+        }
+      ]
+    },
+    {
+      "title": "157",
+      "text": "the beatles rock band",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "band"
+        },
+        {
+          "weight": "1",
+          "feature": "beatles"
+        },
+        {
+          "weight": "1",
+          "feature": "rock"
+        }
+      ]
+    },
+    {
+      "title": "158",
+      "text": "septic system design",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "septic"
+        },
+        {
+          "weight": "1",
+          "feature": "design"
+        }
+      ]
+    },
+    {
+      "title": "159",
+      "text": "porterville",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "porterville"
+        }
+      ]
+    },
+    {
+      "title": "160",
+      "text": "grilling",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "grilling"
+        }
+      ]
+    },
+    {
+      "title": "161",
+      "text": "furniture for small spaces",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "spaces"
+        },
+        {
+          "weight": "1",
+          "feature": "furniture"
+        },
+        {
+          "weight": "1",
+          "feature": "small"
+        }
+      ]
+    },
+    {
+      "title": "162",
+      "text": "dnr",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dnr"
+        }
+      ]
+    },
+    {
+      "title": "163",
+      "text": "arkansas",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "arkansas"
+        }
+      ]
+    },
+    {
+      "title": "164",
+      "text": "hobby stores",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hobby"
+        },
+        {
+          "weight": "1",
+          "feature": "stores"
+        }
+      ]
+    },
+    {
+      "title": "165",
+      "text": "blue throated hummingbird",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "blue"
+        },
+        {
+          "weight": "1",
+          "feature": "hummingbird"
+        },
+        {
+          "weight": "1",
+          "feature": "throated"
+        }
+      ]
+    },
+    {
+      "title": "166",
+      "text": "computer programming",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "computer"
+        },
+        {
+          "weight": "1",
+          "feature": "programming"
+        }
+      ]
+    },
+    {
+      "title": "167",
+      "text": "barbados",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "barbados"
+        }
+      ]
+    },
+    {
+      "title": "168",
+      "text": "lipoma",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lipoma"
+        }
+      ]
+    },
+    {
+      "title": "169",
+      "text": "battles in the civil war",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "civil"
+        },
+        {
+          "weight": "1",
+          "feature": "battles"
+        },
+        {
+          "weight": "1",
+          "feature": "war"
+        }
+      ]
+    },
+    {
+      "title": "170",
+      "text": "scooters",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "scooters"
+        }
+      ]
+    },
+    {
+      "title": "171",
+      "text": "ron howard",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ron"
+        },
+        {
+          "weight": "1",
+          "feature": "howard"
+        }
+      ]
+    },
+    {
+      "title": "172",
+      "text": "becoming a paralegal",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "paralegal"
+        }
+      ]
+    },
+    {
+      "title": "173",
+      "text": "hip fractures",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fractures"
+        },
+        {
+          "weight": "1",
+          "feature": "hip"
+        }
+      ]
+    },
+    {
+      "title": "174",
+      "text": "rock art",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "art"
+        },
+        {
+          "weight": "1",
+          "feature": "rock"
+        }
+      ]
+    },
+    {
+      "title": "175",
+      "text": "signs of a heartattack",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "signs"
+        },
+        {
+          "weight": "1",
+          "feature": "heartattack"
+        }
+      ]
+    },
+    {
+      "title": "176",
+      "text": "weather strip",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "weather"
+        },
+        {
+          "weight": "1",
+          "feature": "strip"
+        }
+      ]
+    },
+    {
+      "title": "177",
+      "text": "best long term care insurance",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "insurance"
+        },
+        {
+          "weight": "1",
+          "feature": "term"
+        },
+        {
+          "weight": "1",
+          "feature": "care"
+        },
+        {
+          "weight": "1",
+          "feature": "best"
+        },
+        {
+          "weight": "1",
+          "feature": "long"
+        }
+      ]
+    },
+    {
+      "title": "178",
+      "text": "pork tenderloin",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pork"
+        },
+        {
+          "weight": "1",
+          "feature": "tenderloin"
+        }
+      ]
+    },
+    {
+      "title": "179",
+      "text": "black history",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "black"
+        }
+      ]
+    },
+    {
+      "title": "180",
+      "text": "newyork hotels",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "newyork"
+        },
+        {
+          "weight": "1",
+          "feature": "hotels"
+        }
+      ]
+    },
+    {
+      "title": "181",
+      "text": "old coins",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "old"
+        },
+        {
+          "weight": "1",
+          "feature": "coins"
+        }
+      ]
+    },
+    {
+      "title": "182",
+      "text": "quit smoking",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "smoking"
+        },
+        {
+          "weight": "1",
+          "feature": "quit"
+        }
+      ]
+    },
+    {
+      "title": "183",
+      "text": "kansas city mo",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mo"
+        },
+        {
+          "weight": "1",
+          "feature": "kansas"
+        },
+        {
+          "weight": "1",
+          "feature": "city"
+        }
+      ]
+    },
+    {
+      "title": "184",
+      "text": "civil right movement",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "movement"
+        },
+        {
+          "weight": "1",
+          "feature": "civil"
+        },
+        {
+          "weight": "1",
+          "feature": "right"
+        }
+      ]
+    },
+    {
+      "title": "185",
+      "text": "credit report",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "report"
+        },
+        {
+          "weight": "1",
+          "feature": "credit"
+        }
+      ]
+    },
+    {
+      "title": "186",
+      "text": "unc",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "unc"
+        }
+      ]
+    },
+    {
+      "title": "187",
+      "text": "vanuatu",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "vanuatu"
+        }
+      ]
+    },
+    {
+      "title": "188",
+      "text": "internet phone service",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "phone"
+        },
+        {
+          "weight": "1",
+          "feature": "service"
+        },
+        {
+          "weight": "1",
+          "feature": "internet"
+        }
+      ]
+    },
+    {
+      "title": "189",
+      "text": "gs pay rate",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rate"
+        },
+        {
+          "weight": "1",
+          "feature": "pay"
+        },
+        {
+          "weight": "1",
+          "feature": "gs"
+        }
+      ]
+    },
+    {
+      "title": "190",
+      "text": "brooks brothers clearance",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "brooks"
+        },
+        {
+          "weight": "1",
+          "feature": "clearance"
+        },
+        {
+          "weight": "1",
+          "feature": "brothers"
+        }
+      ]
+    },
+    {
+      "title": "191",
+      "text": "churchill downs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "downs"
+        },
+        {
+          "weight": "1",
+          "feature": "churchill"
+        }
+      ]
+    },
+    {
+      "title": "192",
+      "text": "condos in florida",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "condos"
+        },
+        {
+          "weight": "1",
+          "feature": "florida"
+        }
+      ]
+    },
+    {
+      "title": "193",
+      "text": "dog clean up bags",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "clean"
+        },
+        {
+          "weight": "1",
+          "feature": "dog"
+        },
+        {
+          "weight": "1",
+          "feature": "bags"
+        }
+      ]
+    },
+    {
+      "title": "194",
+      "text": "designer dog breeds",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "designer"
+        },
+        {
+          "weight": "1",
+          "feature": "breeds"
+        },
+        {
+          "weight": "1",
+          "feature": "dog"
+        }
+      ]
+    },
+    {
+      "title": "195",
+      "text": "pressure washers",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pressure"
+        },
+        {
+          "weight": "1",
+          "feature": "washers"
+        }
+      ]
+    },
+    {
+      "title": "196",
+      "text": "sore throat",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sore"
+        },
+        {
+          "weight": "1",
+          "feature": "throat"
+        }
+      ]
+    },
+    {
+      "title": "197",
+      "text": "idaho state flower",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "idaho"
+        },
+        {
+          "weight": "1",
+          "feature": "state"
+        },
+        {
+          "weight": "1",
+          "feature": "flower"
+        }
+      ]
+    },
+    {
+      "title": "198",
+      "text": "indiana state fairgrounds",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fairgrounds"
+        },
+        {
+          "weight": "1",
+          "feature": "indiana"
+        },
+        {
+          "weight": "1",
+          "feature": "state"
+        }
+      ]
+    },
+    {
+      "title": "199",
+      "text": "fybromyalgia",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fybromyalgia"
+        }
+      ]
+    },
+    {
+      "title": "200",
+      "text": "ontario california airport",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "airport"
+        },
+        {
+          "weight": "1",
+          "feature": "california"
+        },
+        {
+          "weight": "1",
+          "feature": "ontario"
+        }
+      ]
+    }
+  ]
+}
