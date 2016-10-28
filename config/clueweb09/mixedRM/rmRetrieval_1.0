@@ -1,0 +1,6 @@
+index: /data0/indexes2/clueweb09
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+queries: /home/gsherma2/entities/res/topics/topics.trecWeb.json
+rm-docs-dir: /home/gsherma2/entities/out/clueweb09/normalRMs.20
+rm-docs-dir2: /home/gsherma2/entities/out/clueweb09/entityRMs
+original-query-weight: 1.0

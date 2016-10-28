@@ -1,0 +1,6 @@
+index: /data0/indexes2/AP_88-89
+wiki-index: /data0/indexes2/AP_88-89
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+queries: /home/gsherma2/entities/res/topics/topics.101-200.json
+document-terms: 20
+documents-file: /home/gsherma2/entities/res/clusters/data/AP/chunks/x03

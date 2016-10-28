@@ -1,0 +1,6 @@
+index: /data0/indexes2/wt10g
+#index: /data0/wikipedia/20150901/index
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+queries: /home/gsherma2/entities/res/topics/topics.451-550.json
+out-dir: /home/gsherma2/entities/out/wt10g/normalRMs.20.2
+fb-docs: 20

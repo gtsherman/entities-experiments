@@ -1,0 +1,12 @@
+index: /data0/indexes2/clueweb09
+#wiki-index: /data0/indexes2/clueweb09
+wiki-index: /data0/wikipedia/20150901/index
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+document-entities-file: /home/gsherma2/entities/res/clusters/clueweb09/wiki/docterms20/clusters
+queries: /home/gsherma2/entities/res/topics/topics.trecWeb.json
+qrels: /home/gsherma2/entities/res/qrels/qrels.trecWeb
+rms-dir: /home/gsherma2/entities/out/clueweb09/normalRMs.20/
+entity-probability-data-dir: /home/gsherma2/entities/out/clueweb09/entityProbsWiki
+sweep-dir: /home/gsherma2/entities/out/clueweb09/secondOrder/sweeps
+for-query-probs: /home/gsherma2/entities/out/clueweb09
+entity-probs: /home/gsherma2/entities/out/clueweb09

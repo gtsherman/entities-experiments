@@ -1,0 +1,700 @@
+{
+    "queries": [
+        {
+            "model": [
+                {
+                    "feature": "of",
+                    "weight": 1
+                },
+                {
+                    "feature": "the",
+                    "weight": 1
+                },
+                {
+                    "feature": "penguins",
+                    "weight": 1
+                },
+                {
+                    "feature": "march",
+                    "weight": 1
+                }
+            ],
+            "text": "march of the penguins",
+            "title": "851"
+        },
+        {
+            "model": [
+                {
+                    "feature": "summers",
+                    "weight": 1
+                },
+                {
+                    "feature": "larry",
+                    "weight": 1
+                }
+            ],
+            "text": "larry summers",
+            "title": "852"
+        },
+        {
+            "model": [
+                {
+                    "feature": "union",
+                    "weight": 1
+                },
+                {
+                    "feature": "of",
+                    "weight": 1
+                },
+                {
+                    "feature": "state",
+                    "weight": 1
+                },
+                {
+                    "feature": "the",
+                    "weight": 1
+                }
+            ],
+            "text": "state of the union",
+            "title": "853"
+        },
+        {
+            "model": [
+                {
+                    "feature": "ann",
+                    "weight": 1
+                },
+                {
+                    "feature": "coulter",
+                    "weight": 1
+                }
+            ],
+            "text": "ann coulter",
+            "title": "854"
+        },
+        {
+            "model": [
+                {
+                    "feature": "abramoff",
+                    "weight": 1
+                },
+                {
+                    "feature": "bush",
+                    "weight": 1
+                }
+            ],
+            "text": "abramoff bush",
+            "title": "855"
+        },
+        {
+            "model": [
+                {
+                    "feature": "pro",
+                    "weight": 1
+                },
+                {
+                    "feature": "macbook",
+                    "weight": 1
+                }
+            ],
+            "text": "macbook pro",
+            "title": "856"
+        },
+        {
+            "model": [
+                {
+                    "feature": "jon",
+                    "weight": 1
+                },
+                {
+                    "feature": "stewart",
+                    "weight": 1
+                }
+            ],
+            "text": "jon stewart",
+            "title": "857"
+        },
+        {
+            "model": [
+                {
+                    "feature": "bowl",
+                    "weight": 1
+                },
+                {
+                    "feature": "super",
+                    "weight": 1
+                },
+                {
+                    "feature": "ads",
+                    "weight": 1
+                }
+            ],
+            "text": "super bowl ads",
+            "title": "858"
+        },
+        {
+            "model": [
+                {
+                    "feature": "letting",
+                    "weight": 1
+                },
+                {
+                    "feature": "club",
+                    "weight": 1
+                },
+                {
+                    "feature": "into",
+                    "weight": 1
+                },
+                {
+                    "feature": "india",
+                    "weight": 1
+                },
+                {
+                    "feature": "the",
+                    "weight": 1
+                }
+            ],
+            "text": "letting india into the club",
+            "title": "859"
+        },
+        {
+            "model": [
+                {
+                    "feature": "development",
+                    "weight": 1
+                },
+                {
+                    "feature": "arrested",
+                    "weight": 1
+                }
+            ],
+            "text": "arrested development",
+            "title": "860"
+        },
+        {
+            "model": [
+                {
+                    "feature": "mardi",
+                    "weight": 1
+                },
+                {
+                    "feature": "gras",
+                    "weight": 1
+                }
+            ],
+            "text": "mardi gras",
+            "title": "861"
+        },
+        {
+            "model": [
+                {
+                    "feature": "blackberry",
+                    "weight": 1
+                }
+            ],
+            "text": "blackberry",
+            "title": "862"
+        },
+        {
+            "model": [
+                {
+                    "feature": "netflix",
+                    "weight": 1
+                }
+            ],
+            "text": "netflix",
+            "title": "863"
+        },
+        {
+            "model": [
+                {
+                    "feature": "report",
+                    "weight": 1
+                },
+                {
+                    "feature": "colbert",
+                    "weight": 1
+                }
+            ],
+            "text": "colbert report",
+            "title": "864"
+        },
+        {
+            "model": [
+                {
+                    "feature": "basque",
+                    "weight": 1
+                }
+            ],
+            "text": "basque",
+            "title": "865"
+        },
+        {
+            "model": [
+                {
+                    "feature": "foods",
+                    "weight": 1
+                },
+                {
+                    "feature": "whole",
+                    "weight": 1
+                }
+            ],
+            "text": "whole foods",
+            "title": "866"
+        },
+        {
+            "model": [
+                {
+                    "feature": "cheney",
+                    "weight": 1
+                },
+                {
+                    "feature": "hunting",
+                    "weight": 1
+                }
+            ],
+            "text": "cheney hunting",
+            "title": "867"
+        },
+        {
+            "model": [
+                {
+                    "feature": "strike",
+                    "weight": 1
+                },
+                {
+                    "feature": "joint",
+                    "weight": 1
+                },
+                {
+                    "feature": "fighter",
+                    "weight": 1
+                }
+            ],
+            "text": "joint strike fighter",
+            "title": "868"
+        },
+        {
+            "model": [
+                {
+                    "feature": "muhammad",
+                    "weight": 1
+                },
+                {
+                    "feature": "cartoon",
+                    "weight": 1
+                }
+            ],
+            "text": "muhammad cartoon",
+            "title": "869"
+        },
+        {
+            "model": [
+                {
+                    "feature": "barry",
+                    "weight": 1
+                },
+                {
+                    "feature": "bonds",
+                    "weight": 1
+                }
+            ],
+            "text": "barry bonds",
+            "title": "870"
+        },
+        {
+            "model": [
+                {
+                    "feature": "sheehan",
+                    "weight": 1
+                },
+                {
+                    "feature": "cindy",
+                    "weight": 1
+                }
+            ],
+            "text": "cindy sheehan",
+            "title": "871"
+        },
+        {
+            "model": [
+                {
+                    "feature": "mountain",
+                    "weight": 1
+                },
+                {
+                    "feature": "brokeback",
+                    "weight": 1
+                }
+            ],
+            "text": "brokeback mountain",
+            "title": "872"
+        },
+        {
+            "model": [
+                {
+                    "feature": "bruce",
+                    "weight": 1
+                },
+                {
+                    "feature": "bartlett",
+                    "weight": 1
+                }
+            ],
+            "text": "bruce bartlett",
+            "title": "873"
+        },
+        {
+            "model": [
+                {
+                    "feature": "coretta",
+                    "weight": 1
+                },
+                {
+                    "feature": "scott",
+                    "weight": 1
+                },
+                {
+                    "feature": "king",
+                    "weight": 1
+                }
+            ],
+            "text": "coretta scott king",
+            "title": "874"
+        },
+        {
+            "model": [
+                {
+                    "feature": "american",
+                    "weight": 1
+                },
+                {
+                    "feature": "idol",
+                    "weight": 1
+                }
+            ],
+            "text": "american idol",
+            "title": "875"
+        },
+        {
+            "model": [
+                {
+                    "feature": "on",
+                    "weight": 1
+                },
+                {
+                    "feature": "life",
+                    "weight": 1
+                },
+                {
+                    "feature": "mars",
+                    "weight": 1
+                }
+            ],
+            "text": "life on mars",
+            "title": "876"
+        },
+        {
+            "model": [
+                {
+                    "feature": "food",
+                    "weight": 1
+                },
+                {
+                    "feature": "sonic",
+                    "weight": 1
+                },
+                {
+                    "feature": "industry",
+                    "weight": 1
+                }
+            ],
+            "text": "sonic food industry",
+            "title": "877"
+        },
+        {
+            "model": [
+                {
+                    "feature": "jihad",
+                    "weight": 1
+                }
+            ],
+            "text": "jihad",
+            "title": "878"
+        },
+        {
+            "model": [
+                {
+                    "feature": "car",
+                    "weight": 1
+                },
+                {
+                    "feature": "hybrid",
+                    "weight": 1
+                }
+            ],
+            "text": "hybrid car",
+            "title": "879"
+        },
+        {
+            "model": [
+                {
+                    "feature": "portman",
+                    "weight": 1
+                },
+                {
+                    "feature": "natalie",
+                    "weight": 1
+                }
+            ],
+            "text": "natalie portman",
+            "title": "880"
+        },
+        {
+            "model": [
+                {
+                    "feature": "report",
+                    "weight": 1
+                },
+                {
+                    "feature": "news",
+                    "weight": 1
+                },
+                {
+                    "feature": "fox",
+                    "weight": 1
+                }
+            ],
+            "text": "fox news report",
+            "title": "881"
+        },
+        {
+            "model": [
+                {
+                    "feature": "seahawks",
+                    "weight": 1
+                }
+            ],
+            "text": "seahawks",
+            "title": "882"
+        },
+        {
+            "model": [
+                {
+                    "feature": "heineken",
+                    "weight": 1
+                }
+            ],
+            "text": "heineken",
+            "title": "883"
+        },
+        {
+            "model": [
+                {
+                    "feature": "qualcomm",
+                    "weight": 1
+                }
+            ],
+            "text": "qualcomm",
+            "title": "884"
+        },
+        {
+            "model": [
+                {
+                    "feature": "shimano",
+                    "weight": 1
+                }
+            ],
+            "text": "shimano",
+            "title": "885"
+        },
+        {
+            "model": [
+                {
+                    "feature": "west",
+                    "weight": 1
+                },
+                {
+                    "feature": "wing",
+                    "weight": 1
+                }
+            ],
+            "text": "west wing",
+            "title": "886"
+        },
+        {
+            "model": [
+                {
+                    "feature": "world",
+                    "weight": 1
+                },
+                {
+                    "feature": "organization",
+                    "weight": 1
+                },
+                {
+                    "feature": "trade",
+                    "weight": 1
+                }
+            ],
+            "text": "world trade organization",
+            "title": "887"
+        },
+        {
+            "model": [
+                {
+                    "feature": "audi",
+                    "weight": 1
+                }
+            ],
+            "text": "audi",
+            "title": "888"
+        },
+        {
+            "model": [
+                {
+                    "feature": "scientology",
+                    "weight": 1
+                }
+            ],
+            "text": "scientology",
+            "title": "889"
+        },
+        {
+            "model": [
+                {
+                    "feature": "olympics",
+                    "weight": 1
+                }
+            ],
+            "text": "olympics",
+            "title": "890"
+        },
+        {
+            "model": [
+                {
+                    "feature": "intel",
+                    "weight": 1
+                }
+            ],
+            "text": "intel",
+            "title": "891"
+        },
+        {
+            "model": [
+                {
+                    "feature": "jim",
+                    "weight": 1
+                },
+                {
+                    "feature": "moran",
+                    "weight": 1
+                }
+            ],
+            "text": "jim moran",
+            "title": "892"
+        },
+        {
+            "model": [
+                {
+                    "feature": "zyrtec",
+                    "weight": 1
+                }
+            ],
+            "text": "zyrtec",
+            "title": "893"
+        },
+        {
+            "model": [
+                {
+                    "feature": "board",
+                    "weight": 1
+                },
+                {
+                    "feature": "chess",
+                    "weight": 1
+                }
+            ],
+            "text": "board chess",
+            "title": "894"
+        },
+        {
+            "model": [
+                {
+                    "feature": "oprah",
+                    "weight": 1
+                }
+            ],
+            "text": "oprah",
+            "title": "895"
+        },
+        {
+            "model": [
+                {
+                    "feature": "global",
+                    "weight": 1
+                },
+                {
+                    "feature": "warming",
+                    "weight": 1
+                }
+            ],
+            "text": "global warming",
+            "title": "896"
+        },
+        {
+            "model": [
+                {
+                    "feature": "ariel",
+                    "weight": 1
+                },
+                {
+                    "feature": "sharon",
+                    "weight": 1
+                }
+            ],
+            "text": "ariel sharon",
+            "title": "897"
+        },
+        {
+            "model": [
+                {
+                    "feature": "intelligence",
+                    "weight": 1
+                },
+                {
+                    "feature": "resources",
+                    "weight": 1
+                },
+                {
+                    "feature": "business",
+                    "weight": 1
+                }
+            ],
+            "text": "business intelligence resources",
+            "title": "898"
+        },
+        {
+            "model": [
+                {
+                    "feature": "cholesterol",
+                    "weight": 1
+                }
+            ],
+            "text": "cholesterol",
+            "title": "899"
+        },
+        {
+            "model": [
+                {
+                    "feature": "mcdonalds",
+                    "weight": 1
+                }
+            ],
+            "text": "mcdonalds",
+            "title": "900"
+        }
+    ]
+}

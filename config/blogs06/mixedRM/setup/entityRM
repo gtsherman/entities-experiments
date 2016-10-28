@@ -1,0 +1,6 @@
+index: /data0/wikipedia/20150901/index
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+queries: /home/gsherma2/entities/res/topics/topics.851-900.json
+out-dir: /home/gsherma2/entities/out/blogs06/entityRMs
+query-entities: /home/gsherma2/entities/out/blogs06/entityFreq
+fb-docs: 5

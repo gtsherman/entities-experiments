@@ -1,21 +1,23 @@
 #!/usr/bin/python
 
 from sys import argv
+import os
 
 
 template_file = argv[1]
-num_chunks = int(argv[2])
 
 template = []
 with open(template_file) as f:
 	for line in f:
 		template.append(line.strip())
+		key, path = line.split(':')
+		if key == 'documents-file':
+			chunk_dir = '/'.join(path.strip().split('/'))
 
-for i in range(1, num_chunks+1):
-	with open('tmp/{}'.format(i), 'w') as out:
+
+for f in os.listdir(chunk_dir):
+	with open('tmp3/{}'.format(f), 'w') as out:
 		for line in template:
 			if line.split(':')[0] == 'documents-file':
-				line = line.split('/')
-				line[-1] = str(i)
-				line = '/'.join(line)
+				line = line+'/{}'.format(f)
 			out.write(line+'\n')

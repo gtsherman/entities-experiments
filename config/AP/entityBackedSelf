@@ -1,0 +1,14 @@
+index: /data0/indexes2/AP_88-89
+#wiki-index: /data0/wikipedia/20150901/index
+wiki-index: /data0/indexes2/AP_88-89
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+#document-entities-file: /home/gsherma2/entities/res/clusters/AP/wiki/docterms20/clusters
+document-entities-file: /home/gsherma2/entities/res/clusters/AP/AP/docterms20/clusters
+queries: /home/gsherma2/entities/res/topics/topics.101-200.json
+qrels: /home/gsherma2/entities/res/qrels/qrels.AP.101-200
+rms-dir: /home/gsherma2/entities/out/AP/normalRMs.20/
+entity-probability-data-dir: /home/gsherma2/entities/out/AP/entityProbsSelf
+sweep-dir: /home/gsherma2/entities/out/AP/secondOrder/sweeps
+clarity-dir: /home/gsherma2/entities/out/AP/weerkamp
+for-query-probs: /home/gsherma2/entities/out/AP/
+entity-probs: /home/gsherma2/entities/out/AP

@@ -3688,24 +3688,6 @@
       ]
     },
     {
-      "title": "672",
-      "text": "NRA membership profile",
-      "model": [
-        {
-          "weight": "1",
-          "feature": "nra"
-        },
-        {
-          "weight": "1",
-          "feature": "membership"
-        },
-        {
-          "weight": "1",
-          "feature": "profile"
-        }
-      ]
-    },
-    {
       "title": "673",
       "text": "Soviet withdrawal Afghanistan",
       "model": [

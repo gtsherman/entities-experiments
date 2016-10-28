@@ -1,0 +1,274 @@
+{
+  "queries": [
+    {
+      "title": "101",
+      "text": "design of the star wars anti missile defense system",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "defense"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "missile"
+        },
+        {
+          "weight": "1",
+          "feature": "anti"
+        },
+        {
+          "weight": "1",
+          "feature": "star"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "wars"
+        },
+        {
+          "weight": "1",
+          "feature": "design"
+        }
+      ]
+    },
+    {
+      "title": "102",
+      "text": "laser research applicable to the us s strategic defense initiative",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "defense"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "laser"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "applicable"
+        },
+        {
+          "weight": "1",
+          "feature": "strategic"
+        },
+        {
+          "weight": "1",
+          "feature": "research"
+        },
+        {
+          "weight": "1",
+          "feature": "initiative"
+        }
+      ]
+    },
+    {
+      "title": "103",
+      "text": "welfare reform",
+      "epoch": "574992000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reform"
+        },
+        {
+          "weight": "1",
+          "feature": "welfare"
+        }
+      ]
+    },
+    {
+      "title": "104",
+      "text": "catastrophic health insurance",
+      "epoch": "577152000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "insurance"
+        },
+        {
+          "weight": "1",
+          "feature": "catastrophic"
+        },
+        {
+          "weight": "1",
+          "feature": "health"
+        }
+      ]
+    },
+    {
+      "title": "105",
+      "text": "black monday",
+      "epoch": "576028800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "monday"
+        },
+        {
+          "weight": "1",
+          "feature": "black"
+        }
+      ]
+    },
+    {
+      "title": "106",
+      "text": "us control of insider trading",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "insider"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "trading"
+        }
+      ]
+    },
+    {
+      "title": "107",
+      "text": "japanese regulation of insider trading",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "insider"
+        },
+        {
+          "weight": "1",
+          "feature": "regulation"
+        },
+        {
+          "weight": "1",
+          "feature": "japanese"
+        },
+        {
+          "weight": "1",
+          "feature": "trading"
+        }
+      ]
+    },
+    {
+      "title": "108",
+      "text": "japanese protectionist measures",
+      "epoch": "574560000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "protectionist"
+        },
+        {
+          "weight": "1",
+          "feature": "measures"
+        },
+        {
+          "weight": "1",
+          "feature": "japanese"
+        }
+      ]
+    },
+    {
+      "title": "109",
+      "text": "find innovative companies",
+      "epoch": "586224000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "companies"
+        },
+        {
+          "weight": "1",
+          "feature": "innovative"
+        },
+        {
+          "weight": "1",
+          "feature": "find"
+        }
+      ]
+    },
+    {
+      "title": "110",
+      "text": "topic black resistance against the south african government",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "topic"
+        },
+        {
+          "weight": "1",
+          "feature": "african"
+        },
+        {
+          "weight": "1",
+          "feature": "against"
+        },
+        {
+          "weight": "1",
+          "feature": "south"
+        },
+        {
+          "weight": "1",
+          "feature": "resistance"
+        },
+        {
+          "weight": "1",
+          "feature": "government"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "black"
+        }
+      ]
+    }
+  ]
+}

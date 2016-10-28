@@ -1,0 +1,15 @@
+index: /data0/indexes2/robust
+wiki-index: /data0/indexes2/robust
+#wiki-index: /hdfsd02/tmpspace/mefron/indexes/robust
+#wiki-index: /data0/wikipedia/20150901/index
+stoplist: /home/gsherma2/entities/res/stoplists/stoplist.indri
+#document-entities-file: /home/gsherma2/entities/res/clusters/robust/wiki/docterms20/clusters
+document-entities-file: /home/gsherma2/entities/res/clusters/robust/robust/docterms20/clusters
+queries: /home/gsherma2/entities/res/topics/topics.robust.json
+rms-dir: /home/gsherma2/entities/out/robust/normalRMs.20/
+entity-probability-data-dir: /home/gsherma2/entities/out/robust/entityProbsSelf
+sweep-dir: /home/gsherma2/entities/out/robust/secondOrder/sweeps
+qrels: /home/gsherma2/entities/res/qrels/qrels.robust
+clarity-dir: /home/gsherma2/entities/out/robust/weerkamp
+for-query-probs: /home/gsherma2/entities/out/robust
+entity-probs: /home/gsherma2/entities/out/robust

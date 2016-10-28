@@ -1,5 +1,0 @@
-#!/bin/bash
-# $1 = config file
-
-_JAVA_OPTIONS=-Xmx15g
-java -Djava.library.path=/home/mefron/local_indri/lib -cp /home/gsherma2/entities/lib/*:/home/gsherma2/entities/config/logging/ edu.gslis.main.RunIndriRetrieval $1
