@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# $1 = query file
+# $2 = index
+# $3 = output dir
+
+while IFS=$'\t' read -r doc query; do
+  /home/mefron/indri-5.8/rmodel/rmodel -query="$query" -index=$2 -documents=10 > "$3/$doc.unstopped";
+  ~/entities/src/apply_stoplist.py "$3/$doc.unstopped" ~/entities/res/stoplists/stoplist.indri > "$3/$doc.stopped";
+  rm "$3/$doc.unstopped";
+  tail -n +2 "$3/$doc.stopped" > "$3/$doc.inter";
+  rm "$3/$doc.stopped";
+  sed -e 's/ 1 / /g' "$3/$doc.inter" > "$3/$doc";
+  rm "$3/$doc.inter";
+done < $1

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# $1 = output dir
+
+for doc in `ls $1`; do
+  normdoc=`basename $doc .unstopped`
+  ~/entities/src/apply_stoplist.py "$1/$doc" ~/entities/res/stoplists/stoplist.indri > "$1/$normdoc.stopped";
+  tail -n +2 "$1/$normdoc.stopped" > "$1/$normdoc.inter";
+  sed -e 's/ 1 / /g' "$1/$normdoc.inter" > "$1/$normdoc";
+done
